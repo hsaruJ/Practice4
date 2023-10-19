@@ -7,7 +7,7 @@ except ValueError:
     print("Ошибка: не соблюдён формат ввода. Перезапустите, чтобы продолжить.")
     exit()
 
-
+day_of_birth = ()
 try:
     day_of_birth = datetime.datetime(year, month, day, hour=12)
 except ValueError:
