@@ -1,2 +1,2 @@
 Подтвердить commit - Ctrl + C + Ctrl + C
-:qa! или :qa!
+:qa или :qa
